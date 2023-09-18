@@ -1,3 +1,5 @@
+The purpose of this project is to identify the alleles from the 8 major loci when given a FASTQ file.
+
 The txt file contains all of the possible alleles and their respective reverse complementaries in sorted order. 
 
 Example of what STRproject.cpp will output:
